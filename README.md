@@ -7,7 +7,7 @@ Este repositorio contiene el trabajo pr√°ctico final para la asignatura de Dise√
 
 
 ## Licencia de este trabajo ##
-LICENCIA CC BY 4.0 
+MIT License
 
 ## Estructura del TP FINAL ##
 
