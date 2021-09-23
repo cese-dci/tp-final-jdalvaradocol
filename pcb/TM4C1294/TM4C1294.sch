@@ -47,17 +47,6 @@ F 3 "https://www.sparkfun.com/datasheets/LCD/Monochrome/Nokia5110.pdf" H 4550 22
 	1    0    0    -1  
 $EndComp
 $Comp
-L EK-TM4C1294:Keypad4x4 T1
-U 1 1 614CEC02
-P 6300 1600
-F 0 "T1" H 6850 2300 50  0000 L CNN
-F 1 "Keypad4x4" H 6350 2300 50  0000 L CNN
-F 2 "EK-TM4C1294:Keypad" H 6300 1300 50  0001 C CNN
-F 3 "https://cdn.sparkfun.com/assets/f/f/a/5/0/DS-16038.pdf" H 6300 1300 50  0001 C CNN
-	1    6300 1600
-	1    0    0    -1  
-$EndComp
-$Comp
 L Device:R R1
 U 1 1 614F0F70
 P 4550 2950
@@ -1154,4 +1143,15 @@ Wire Notes Line
 	3100 700  3100 6800
 Wire Notes Line
 	750  700  750  6800
+$Comp
+L EK-TM4C1294:Keypad4x4 T?
+U 1 1 614E30AE
+P 6300 1600
+F 0 "T?" H 6978 1913 50  0000 L CNN
+F 1 "Keypad4x4" H 6978 1822 50  0000 L CNN
+F 2 "EK-TM4C1294:Keypad" H 6300 1300 50  0001 C CNN
+F 3 "https://cdn.sparkfun.com/assets/f/f/a/5/0/DS-16038.pdf" H 6300 1300 50  0001 C CNN
+	1    6300 1600
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
