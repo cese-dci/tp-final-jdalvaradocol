@@ -1,0 +1,20 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EK-TM4C1294
+D ARM® Cortex®-M4F-Based MCU TM4C1294 Connected LaunchPad™ Evaluation Kit
+F https://www.ti.com/lit/pdf/spmu365
+$ENDCMP
+#
+$CMP Keypad4x4
+D 4x4 Matrix  Keypad
+K 4x4 Matrix  Keypad
+F https://cdn.sparkfun.com/assets/f/f/a/5/0/DS-16038.pdf
+$ENDCMP
+#
+$CMP Nokia5110
+D Graphic LCD 84x48 - Nokia 5110
+
+F https://www.sparkfun.com/datasheets/LCD/Monochrome/Nokia5110.pdf
+$ENDCMP
+#
+#End Doc Library
